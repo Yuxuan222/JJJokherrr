@@ -1,4 +1,7 @@
 ### Hi there 👋
+## Nice to meet you，很高兴认识你这个小可爱
+## 希望这里能够发现你想要的知识
+## 商业+V：ZYX_working
 
 <!--
 **JJJokherrr/JJJokherrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
