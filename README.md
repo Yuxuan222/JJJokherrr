@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Nice to meet you，很高兴认识你!
 #### 希望这里能够发现你想要的知识
-#### 欢迎讨论+Vx：ZYX_working
+#### 对于课程一些问题可以联系我+Vx：ZYX_working
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JJJokherrr)](https://github.com/anuraghazra/github-readme-stats)-->
 
