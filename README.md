@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Nice to meet you，很高兴认识你这个小可爱
+### Nice to meet you，很高兴认识你!
 #### 希望这里能够发现你想要的知识
 #### 商业+V：ZYX_working
 
