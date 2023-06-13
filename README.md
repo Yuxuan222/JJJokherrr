@@ -2,6 +2,8 @@
 ### Nice to meet you，很高兴认识你!
 #### 希望这里能够发现你想要的知识
 #### 对于课程一些问题可以联系我+Vx：ZYX_working
+
+###梦想是成为一个不读书的工程师
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JJJokherrr)](https://github.com/anuraghazra/github-readme-stats)-->
 
